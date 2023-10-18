@@ -1,5 +1,5 @@
 <h1 align="center">Office Fluent UI</h1>
-<p align="center">A Office script that upgrade to the new Fluent UI.<br>
+<p align="center">A script that upgrade to the new Office Fluent UI.<br>
 <i>(Access, Excel, OneNote, Outlook, Powerpoint, Publisher & Word)</i></p>
 <hr>
 
